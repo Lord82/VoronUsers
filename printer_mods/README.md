@@ -51,6 +51,7 @@ like so:
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |
 |Kruppes |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |
 |Lord82 |[V0 c14 Back-Mount](./Lord82/Voron0_C14_Back_inlet_diffrent_Versions)|V0 c14 Back-Mount with options (Deckpanel_rear/Back-Cover)|:heavy_check_mark:|:x:|:x:|
+| |[V0 Resized Modified foot](./Lord82/Voron0_Modified_&_Resized_Foods_30mm)|V0 Resized Modified Foot 30mm & fit to skirt |:heavy_check_mark:|:x:|:x:| 
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |
 |MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |
 | |[Hour Counter Skirt + Keystone Skirt](./MarcPot/Skirt_Mods)|Skirt mod for a mechanical hour counter and keystone inserts |:x: |:x: |:heavy_check_mark: |
